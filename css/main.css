@@ -51,6 +51,7 @@ input:hover {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
     background-color: bisque;
+    border-radius: 15px;
 }
 
 .side button:hover {
