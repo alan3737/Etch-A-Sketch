@@ -58,4 +58,8 @@ input:hover {
     background-color:#f48fb1;
 }
 
+.credit {
+    display: flex;
+    justify-content: center;
+}
 
